@@ -1,0 +1,17 @@
+{
+  "name": "Federico Romagnoli",
+  "short_name": "F. Romagnoli",
+  "description": "Pagina personale di Federico Romagnoli.",
+  "lang": "it",
+  "start_url": "/federico-romagnoli-site/",
+  "display": "standalone",
+  "background_color": "#eef2f1",
+  "theme_color": "#274a4b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

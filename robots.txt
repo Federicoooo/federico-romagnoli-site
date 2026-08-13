@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://federicoooo.github.io/federico-romagnoli-site/sitemap.xml

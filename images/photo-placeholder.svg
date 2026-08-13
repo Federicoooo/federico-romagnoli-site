@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title>Segnaposto fotografia profilo</title>
+  <desc>Illustrazione sobria usata come segnaposto per la fotografia del profilo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7f8f7"/>
+      <stop offset="100%" stop-color="#dce5e1"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="720" rx="54" fill="url(#bg)"/>
+  <circle cx="360" cy="260" r="118" fill="#9db0aa"/>
+  <path d="M182 594c24-118 102-178 178-178s154 60 178 178" fill="#9db0aa"/>
+  <rect x="42" y="42" width="636" height="636" rx="38" fill="none" stroke="#274a4b" stroke-width="12" stroke-opacity="0.18"/>
+  <text x="360" y="655" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#274a4b">
+    Photo Placeholder
+  </text>
+</svg>
