@@ -95,6 +95,9 @@ a {
   border-radius: calc(var(--radius) - 4px);
   background: var(--surface-alt);
   border: 1px solid var(--line);
+  box-shadow: 0 18px 34px rgba(32, 48, 52, 0.12);
+  -webkit-mask-image: radial-gradient(circle at center, #000 72%, transparent 100%);
+  mask-image: radial-gradient(circle at center, #000 72%, transparent 100%);
 }
 
 .eyebrow {
